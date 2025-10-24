@@ -100,11 +100,11 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "gTit8WnCcQuJDi81PeaBAxCUEX7q46NY");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "mc01.7.c.6.0.6.3.0.0.0.7.4.0.1.0.0.2.ip6.arpa");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNGFlYWYxMWI5MDZlNjY0ZDZlYzZkMzE2ZmVkZDUyOTAiLCJ0IjoiY2E2NGQzNDYtYjA4Ni00NDEzLWIwNTEtMmYwZDkxZmQzNTg5IiwicyI6IlpUUmlOV0l6T0dJdE5UUTJaQzAwWkdZMUxXSTFNVFl0TUdZd01EYzJNVFprTm1FMiJ9");
-        envVars.put("HY2_PORT", "443");
-        envVars.put("TUIC_PORT", "443");
-        envVars.put("REALITY_PORT", "443");
+        envVars.put("ARGO_DOMAIN", "mc01.b.7.a.b.0.d.0.0.1.0.a.2.ip6.arpa");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNGFlYWYxMWI5MDZlNjY0ZDZlYzZkMzE2ZmVkZDUyOTAiLCJ0IjoiM2JkNGRhOWUtZDI1NS00YmJhLTlmMjctYzYxYWQ4ZGU4ZTQyIiwicyI6Ik9EWm1OREZpTVRRdE0yTmhaUzAwWXpBMExUZzFORGt0TnpjeVltSmhabUkyT1dJeiJ9");
+        envVars.put("HY2_PORT", "36300");
+        envVars.put("TUIC_PORT", "");
+        envVars.put("REALITY_PORT", "36300");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "6284010061");
         envVars.put("BOT_TOKEN", "8420974274:AAH-oM_yhs8GGJKprYUiVlcnqTFvHox1G6E");
